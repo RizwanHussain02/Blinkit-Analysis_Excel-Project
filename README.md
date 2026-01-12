@@ -1,6 +1,6 @@
 # 🚀 **Blinkit Analysis Excel Project**
 
-Welcome to the **Blinkit Analysis Excel Project**!  
+Welcome to the **Blinkit-Analysis Excel Project**!  
 This repository provides a dynamic and interactive Excel-based analysis of Blinkit’s sales performance, designed for actionable business insights and data-driven decision making.
 
 ---
